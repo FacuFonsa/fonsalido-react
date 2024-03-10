@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "title": "Bateria",
+        "place": "Pearl Prof. Jr. Bombo 16''",
+        "price": 2675,
+        "stock": 108,
+        "img": "bateria 1.webp",
+        "Category": "Bateria"
+
+    },
+    {
+        "id": 2,
+        "title": "Bateria",
+        "place": "Pearl Roadshow Bombo 20''",
+        "price": 2480,
+        "stock": 122,
+        "img": "bateria 2.webp",
+        "Category": "Bateria"
+    },
+    {
+        "id": 3,
+        "title": "Paiste",
+        "place": "SET PST7",
+        "price": 2600,
+        "stock": 100,
+        "img": "paiste pst7.webp",
+        "Category": "Platillos"
+    },
+    {
+        "id": 4,
+        "title": "Paiste",
+        "place": "SET PST X",
+        "price": 2350,
+        "stock": 130,
+        "img": "paiste pstx.webp",
+        "Category": "Platillos"
+    }
+    
+]
