@@ -1,40 +1,40 @@
 [
     {
-        "id": 1,
-        "title": "Bateria",
-        "place": "Pearl Prof. Jr. Bombo 16''",
+        
+        "title": "Pearl",
+        "description": "-Profesional bombo 16´´-",
         "price": 2675,
         "stock": 108,
-        "img": "bateria 1.webp",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-fonsalido.appspot.com/o/bateria%201.webp?alt=media&token=caf6861b-b1b6-4dd3-a6e6-38b5ffa1ed58",
         "Category": "Bateria"
 
     },
     {
-        "id": 2,
-        "title": "Bateria",
-        "place": "Pearl Roadshow Bombo 20''",
+        
+        "title": "Pearl",
+        "description": "-Profesional bombo 20´´-",
         "price": 2480,
         "stock": 122,
-        "img": "bateria 2.webp",
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-fonsalido.appspot.com/o/bateria%202.webp?alt=media&token=b13b7319-ed08-4549-8e06-b351841f05d1",
         "Category": "Bateria"
     },
     {
-        "id": 3,
+        
         "title": "Paiste",
-        "place": "SET PST7",
+        "description": "Set de platos Pst7",
         "price": 2600,
         "stock": 100,
-        "img": "paiste pst7.webp",
-        "Category": "Platillos"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-fonsalido.appspot.com/o/paiste%20pst7.webp?alt=media&token=2112397b-a378-4d39-9007-157afb11dde6",
+        "Category": "platillos"
     },
     {
-        "id": 4,
+        
         "title": "Paiste",
-        "place": "SET PST X",
+        "description": "Set de Platos pstx",
         "price": 2350,
         "stock": 130,
-        "img": "paiste pstx.webp",
-        "Category": "Platillos"
+        "img": "https://firebasestorage.googleapis.com/v0/b/react-fonsalido.appspot.com/o/paiste%20pstx.webp?alt=media&token=1576016a-9355-428f-9490-829a37088fe4",
+        "Category": "platillos"
     }
     
 ]

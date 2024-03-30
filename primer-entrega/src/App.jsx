@@ -1,7 +1,7 @@
 import './style/App.css'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { NavBar } from './components/NavBar/NavBar'
-import { ItemListContainer } './components/ItemListContainer/ItemListContainer
+import { ItemListContainer } from './components/ItemListContainer/ItemListContainer'
 import { Item } from './components/Item/Item'
 import { Dolar } from './components/Dolar/Dolar'
 import { Footer } from './components/Footer'

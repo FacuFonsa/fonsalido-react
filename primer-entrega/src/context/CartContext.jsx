@@ -1,3 +1,4 @@
+import { useState, createContext, useContext } from "react";
 const CarritoContext = createContext()
 
 export const useCarritoContext = () => useContext(CarritoContext)
@@ -14,7 +15,7 @@ export const CarritoProvider = (props) => {
         if(isInCart(item.id)) {
             const indice = carrito.findIndex(prod => prod.id === id)
             const aux = [...carrito]
-            aux[indice].quantity = quantity
+            aux[indice].quantity = cantidad
             setCarrito(aux)
 
         } else {

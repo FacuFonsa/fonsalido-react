@@ -1,8 +1,6 @@
 import { FaHome } from "react-icons/fa";
-import { GiJetFighter } from "react-icons/gi";
-import { TbSchool } from "react-icons/tb";
-import { MdOutlineWorkHistory } from "react-icons/md";
-import { FaMapLocationDot } from "react-icons/fa6";
+import { GiDrumKit } from "react-icons/gi";
+import { GiMusicSpell } from "react-icons/gi";
 import { Link } from "react-router-dom"
 export const Categories = () => {
     return (
@@ -19,23 +17,20 @@ export const Categories = () => {
             <li className="text-white">
                 <Link to={'category/Bateria'}>
                     <button className="bg-blue-400 text-white px-4 py-2 rounded flex items-center">
-                    <GiJetFighter />
+                    <GiDrumKit />
                     </button>
                 </Link>
                 
             </li>
 
             <li className="text-white">
-                <Link to={'category/Platillos'}>
+                <Link to={'category/platillos'}>
                     <button className="bg-blue-400 text-white px-4 py-2 rounded flex items-center">
-                    <TbSchool />
+                    <GiMusicSpell />
                     </button>
                 </Link>
                 
             </li>
-
-
-
         </>
     )
 }
